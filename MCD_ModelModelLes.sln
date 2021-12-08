@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_ModelModelLes", "MCD_ModelModelLes\MCD_ModelModelLes.csproj", "{F93D4F92-509C-4F07-ABA1-F6D3E8D4AC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93D4F92-509C-4F07-ABA1-F6D3E8D4AC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93D4F92-509C-4F07-ABA1-F6D3E8D4AC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93D4F92-509C-4F07-ABA1-F6D3E8D4AC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93D4F92-509C-4F07-ABA1-F6D3E8D4AC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4867A111-460D-4C5C-B1AC-1D34E92895ED}
+	EndGlobalSection
+EndGlobal
